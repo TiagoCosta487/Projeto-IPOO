@@ -3,33 +3,43 @@
 
 ## Plano de trabalho sugerido
 Esta seria a sequência que seguiria desde agora até à apresentação:
+
 **1. Preparação independente do tema**
    Podes fazer agora
+   
    - Criar repositório GitHub.
    - Criar estrutura de pastas.
    - Preparar modelos de documentação.
    - Criar quadro de tarefas.
    - Definir convenções de diagramas.
+     
 **2. Definição do projeto**
    Após escolher o tema
+
    - Identificar problema e objetivos.
    - Definir âmbito e limitações.
    - Identificar atores.
    - Definir requisitos funcionais e não funcionais.
    - Elaborar documento de requisitos.
+     
 **3. Modelação do sistema**
+
    - Elaborar casos de uso.
    - Identificar entidades.
    - Definir relações entre classes.
    - Construir diagrama de classes.
    - Verificar se existem pelo menos 20 classes contextualizadas.
+     
 **4. Desenvolvimento Kotlin**
+
    - Criar estrutura do projeto.
    - Implementar classes.
    - Implementar relações e comportamentos.
    - Desenvolver interface de interação.
    - Implementar leitura/escrita de ficheiros ou acesso à internet.
+     
 **5. Testes e conclusão**
+
    - Testar operações CRUD.
    - Verificar comunicação entre classes.
    - Testar persistência dos dados.
