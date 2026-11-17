@@ -1,5 +1,45 @@
-# Projeto-IPOO
-*Desenvolvimento do projeto final de IPOO*
+# Projeto Final — Introdução à Programação Orientada a Objetos
+
+## Sobre o Projeto
+
+Este repositório destina-se ao desenvolvimento do projeto final da unidade curricular de Introdução à Programação Orientada a Objetos (IPOO), utilizando a linguagem Kotlin.
+
+O projeto tem como objetivo aplicar os principais conceitos de programação orientada a objetos através do desenvolvimento de um sistema funcional, composto por diferentes classes e respetivas interações.
+
+## Objetivos
+
+- Aplicar os princípios fundamentais da programação orientada a objetos.
+- Desenvolver um sistema com pelo menos 20 classes contextualizadas.
+- Implementar mecanismos de interação com o utilizador.
+- Permitir a gestão e persistência de informação através de ficheiros ou acesso à internet.
+- Desenvolver uma aplicação funcional e organizada.
+
+## Tecnologias e Ferramentas
+
+- **Linguagem:** Kotlin
+- **IDE:** IntelliJ IDEA
+- **Modelação UML:** Draw.io
+- **Versionamento:** Git e GitHub
+
+## Organização do Repositório
+
+| Diretório | Conteúdo |
+|---|---|
+| `docs/` | Documentação e requisitos |
+| `diagrams/` | Diagramas UML |
+| `src/` | Código-fonte |
+| `data/` | Dados e ficheiros utilizados pelo sistema |
+
+## Estado do Projeto
+
+Atualmente, o projeto encontra-se na fase de preparação e planeamento. A definição do tema e o desenvolvimento específico do sistema serão realizados posteriormente.
+
+## Autoria
+
+Projeto académico desenvolvido no âmbito da unidade curricular de Introdução à Programação Orientada a Objetos.
+
+
+---------------------------------------------------------------------------------------------------------
 
 ## Plano de trabalho sugerido
 Esta seria a sequência que seguiria desde agora até à apresentação:
