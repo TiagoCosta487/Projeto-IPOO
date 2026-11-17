@@ -1,5 +1,10 @@
 # 2. Requisitos do Sistema
 
+-Requisito funcional: aquilo que o sistema deve fazer.
+-Requisito não funcional: características que o sistema deve respeitar, como segurança, desempenho e fiabilidade.
+-Regra de negócio: uma condição específica do domínio do problema.
+
+
 ## 2.1. Identificação dos Atores
 [Identificação dos diferentes tipos de utilizadores.]
 
